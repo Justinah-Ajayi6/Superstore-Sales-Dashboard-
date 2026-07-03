@@ -45,7 +45,47 @@ This project explores sales and profitability trends across regions, states, pro
 
 ## Screenshots
 
-*see screenshots/ folder)*
+## Screenshots
+
+
+
+![Dashboard Overview](IMG_20260701_002953_872.jpg)
+
+
+
+
+
+![Sales by Region](IMG_20260701_002953_942.jpg)
+
+
+
+
+
+![Sales by State](IMG_20260701_002953_965.jpg)
+
+
+
+
+
+![Category Sales by Profit](IMG_20260701_002954_235.jpg)
+
+
+
+
+
+![Sales by Segment](IMG_20260701_002954_470.jpg)
+
+
+
+
+
+![Sales Trend by Year](IMG_20260701_002954_648.jpg)
+
+
+
+
+
+![Top 10 Sub-Category Sales by Profit](IMG_20260701_002954_685.jpg)
 
 ---
 
